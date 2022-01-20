@@ -14,6 +14,4 @@ let f = (a) => {
 }
 
 let mas = [1, 2, 3];
-mas.length
-
 f(mas);
